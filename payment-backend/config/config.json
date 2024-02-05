@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "payment_app",
+      "password": "payment_app_password",
+      "database": "payment_app",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+  
